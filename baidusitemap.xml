@@ -4,8 +4,28 @@
 
     
   <url>
+    <loc>https://heshangbuxitou.github.io/2017/10/20/seo%E4%BC%98%E5%8C%96/</loc>
+    <lastmod>2017-10-20T12:01:00.297Z</lastmod>
+    <data>
+        <display>
+        <title>博客SEO优化小记</title>
+        <pubTime>2017-10-20T07:27:12.000Z</pubTime>
+        
+        <tag>搜索引擎</tag>
+         
+         
+           
+             
+              <breadCrumb title="技术杂谈" url="https://heshangbuxitou.github.io/categories/%E6%8A%80%E6%9C%AF%E6%9D%82%E8%B0%88/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>https://heshangbuxitou.github.io/2017/10/19/this-javascript/</loc>
-    <lastmod>2017-10-18T16:53:49.778Z</lastmod>
+    <lastmod>2017-10-18T16:54:27.405Z</lastmod>
     <data>
         <display>
         <title>详解JavaScript中的this</title>
